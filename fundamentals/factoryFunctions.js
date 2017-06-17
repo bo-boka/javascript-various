@@ -12,7 +12,7 @@ function makeGreeting(language) {
             console.log('Hola ' + firstname + ' ' + lastname);
         }
 
-    }
+    };
 
 }
 
